@@ -1,6 +1,6 @@
 One to One (Embedded Demo)
 
-Original Schema
+Schema
 ```
 author
 - name
