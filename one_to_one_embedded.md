@@ -1,4 +1,18 @@
 One to One (Embedded Demo)
+
+Original Schema
+```
+author
+- name
+- age
+
+address
+- street
+- city
+
+
+```
+address
 ```js
 // Connect to Database 
 use test;
